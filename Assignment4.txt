@@ -1,0 +1,5 @@
+(a) Object-oriented programming permits reusability of the existing code.—>True
+(b) Languages earlier than procedural programming languages made use of only global variables.  False (c) It is easier to write, understand and maintain programs if they use Object-oriented programming model as compared to Structured programming model.  True
+(d) As compared to procedures, data is not given enough importance in Procedural programming.  False
+(e) Structured programming model does not represent the real world problem as well as the Object-oriented programming model. False
+(f) A class permits us to build user-defined data types. True
